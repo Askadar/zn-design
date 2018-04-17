@@ -1,6 +1,6 @@
 # zn-design
 
-Future design sheet and components library for major used view systems, currently only React.
+Future design sheet and components library for majorly used view systems, currently only React.
 
 ## Purpose and principles
 
